@@ -1,0 +1,12 @@
+<nav role="navigation" class="navbar navbar-default">
+    <div class="navbar-collapse">
+        <ul class="nav navbar-nav">
+            <li class="active"><a href="/all-todos">All Todos</a></li>
+            <li><a href="/list-todos">My Todos</a></li>
+            <li><a href="/list-users">Users</a></li>
+        </ul>
+        <ul class="nav navbar-nav">
+            <li><a href="/logout">Logout</a></li>
+        </ul>
+    </div>
+</nav>
