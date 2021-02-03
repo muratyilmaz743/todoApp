@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my ToDo App</h1>
+<h1 align="center">:pencil2: Welcome to my ToDo App :pencil2:</h1>
 <p>
 </p>
 
